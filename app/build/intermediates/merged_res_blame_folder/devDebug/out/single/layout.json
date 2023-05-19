@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/piyushkumarjoshi/AndroidStudioProjects/NewsApp2/app/build/intermediates/incremental/mergeDevDebugResources/stripped.dir/layout/fragment_details.xml",
+        "source": "/Users/piyushkumarjoshi/AndroidStudioProjects/NewsApp2/app/src/main/res/layout/fragment_details.xml"
+    },
+    {
+        "merged": "/Users/piyushkumarjoshi/AndroidStudioProjects/NewsApp2/app/build/intermediates/incremental/mergeDevDebugResources/stripped.dir/layout/fragment_feed.xml",
+        "source": "/Users/piyushkumarjoshi/AndroidStudioProjects/NewsApp2/app/src/main/res/layout/fragment_feed.xml"
+    },
+    {
+        "merged": "/Users/piyushkumarjoshi/AndroidStudioProjects/NewsApp2/app/build/intermediates/incremental/mergeDevDebugResources/stripped.dir/layout/item_error_message.xml",
+        "source": "/Users/piyushkumarjoshi/AndroidStudioProjects/NewsApp2/app/src/main/res/layout/item_error_message.xml"
+    },
+    {
+        "merged": "/Users/piyushkumarjoshi/AndroidStudioProjects/NewsApp2/app/build/intermediates/incremental/mergeDevDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/Users/piyushkumarjoshi/AndroidStudioProjects/NewsApp2/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/piyushkumarjoshi/AndroidStudioProjects/NewsApp2/app/build/intermediates/incremental/mergeDevDebugResources/stripped.dir/layout/fragment_favorites.xml",
+        "source": "/Users/piyushkumarjoshi/AndroidStudioProjects/NewsApp2/app/src/main/res/layout/fragment_favorites.xml"
+    },
+    {
+        "merged": "/Users/piyushkumarjoshi/AndroidStudioProjects/NewsApp2/app/build/intermediates/incremental/mergeDevDebugResources/stripped.dir/layout/item_news.xml",
+        "source": "/Users/piyushkumarjoshi/AndroidStudioProjects/NewsApp2/app/src/main/res/layout/item_news.xml"
+    }
+]

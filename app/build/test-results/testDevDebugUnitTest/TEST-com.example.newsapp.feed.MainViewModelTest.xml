@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.newsapp.feed.MainViewModelTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2023-05-16T16:52:28" hostname="Piyushs-MacBook-Air.local" time="0.656">
+  <properties/>
+  <testcase name="when calling for results then return news results" classname="com.example.newsapp.feed.MainViewModelTest" time="0.64"/>
+  <testcase name="test format date without T" classname="com.example.newsapp.feed.MainViewModelTest" time="0.0"/>
+  <testcase name="test format date with T" classname="com.example.newsapp.feed.MainViewModelTest" time="0.009"/>
+  <testcase name="when calling for results then return loading state" classname="com.example.newsapp.feed.MainViewModelTest" time="0.002"/>
+  <testcase name="when calling for results then return error" classname="com.example.newsapp.feed.MainViewModelTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
